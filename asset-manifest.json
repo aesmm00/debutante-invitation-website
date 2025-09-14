@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/invitation/static/css/main.46fe3245.css",
-    "main.js": "/invitation/static/js/main.555c3949.js",
+    "main.js": "/invitation/static/js/main.877de176.js",
     "static/js/453.acccadb7.chunk.js": "/invitation/static/js/453.acccadb7.chunk.js",
-    "static/media/aboutPhoto.jpg": "/invitation/static/media/aboutPhoto.ac6ec2fef89c52535305.jpg",
+    "static/media/photoLarge.JPG": "/invitation/static/media/photoLarge.7e11c56b9ba49880a579.JPG",
+    "static/media/photoSmall1.JPG": "/invitation/static/media/photoSmall1.2a0750a92e49e914bc46.JPG",
     "static/media/Lana Del Rey - Young and Beautiful (from The Great Gatsby Soundtrack).mp3": "/invitation/static/media/Lana Del Rey - Young and Beautiful (from The Great Gatsby Soundtrack).a24f986e573618712a3e.mp3",
+    "static/media/photoSmall2.JPG": "/invitation/static/media/photoSmall2.5f9a38829d0db4dd05c7.JPG",
+    "static/media/photoSmall3.jpg": "/invitation/static/media/photoSmall3.43da22c8d63ff89566d0.jpg",
     "static/media/eventDetailsLandscapeBg.jpg": "/invitation/static/media/eventDetailsLandscapeBg.4cf148738516d3715480.jpg",
     "static/media/homeLandscapeBg.jpg": "/invitation/static/media/homeLandscapeBg.4cf148738516d3715480.jpg",
     "static/media/eventDetailsPortraitBg.jpg": "/invitation/static/media/eventDetailsPortraitBg.ecfc1db57f8dd7ab3f3f.jpg",
     "static/media/homePortraitBg.jpg": "/invitation/static/media/homePortraitBg.ecfc1db57f8dd7ab3f3f.jpg",
     "static/media/rsvpSectionBG.jpg": "/invitation/static/media/rsvpSectionBG.b7948c95bd1a9fd1cc30.jpg",
-    "static/media/photoSmall3.jpg": "/invitation/static/media/photoSmall3.1a1f78fd67357a7b4a8b.jpg",
+    "static/media/aboutPhoto.JPG": "/invitation/static/media/aboutPhoto.dd29a928fade8eb98dac.JPG",
     "static/media/aboutLandscapeBg.jpg": "/invitation/static/media/aboutLandscapeBg.fd98322b6c8d890fbade.jpg",
     "static/media/aboutPortraitBg.jpg": "/invitation/static/media/aboutPortraitBg.26a30834bfcb70ebc3e9.jpg",
     "static/media/eighteenBlueBillsBG.jpg": "/invitation/static/media/eighteenBlueBillsBG.fd98322b6c8d890fbade.jpg",
     "static/media/eighteenSidePhoto.jpg": "/invitation/static/media/eighteenSidePhoto.5dba3000071b6921af6c.jpg",
-    "static/media/photoLarge.jpg": "/invitation/static/media/photoLarge.a2e7b65041f0d711e425.jpg",
-    "static/media/photoSmall2.jpg": "/invitation/static/media/photoSmall2.f78c640d95244a8766d3.jpg",
     "static/media/eighteenCandlesBG.jpg": "/invitation/static/media/eighteenCandlesBG.3fd58dda2411c8a46365.jpg",
     "static/media/eighteenTreasureBG.jpg": "/invitation/static/media/eighteenTreasureBG.3fd58dda2411c8a46365.jpg",
-    "static/media/photoSmall1.jpg": "/invitation/static/media/photoSmall1.6f6fee1db227067d426b.jpg",
     "static/media/eighteenBlueBillsSidePhoto.jpg": "/invitation/static/media/eighteenBlueBillsSidePhoto.49001011eca37d58c95f.jpg",
     "static/media/eighteenShotsSidePhoto.jpg": "/invitation/static/media/eighteenShotsSidePhoto.3085b8b8b9106d520b30.jpg",
     "static/media/eighteenTreasureSidePhoto.jpg": "/invitation/static/media/eighteenTreasureSidePhoto.2829f9c389fe4e186d14.jpg",
@@ -32,11 +32,11 @@
     "static/media/eighteenShotsBG.jpg": "/invitation/static/media/eighteenShotsBG.af63294cbe4906eb7434.jpg",
     "index.html": "/invitation/index.html",
     "main.46fe3245.css.map": "/invitation/static/css/main.46fe3245.css.map",
-    "main.555c3949.js.map": "/invitation/static/js/main.555c3949.js.map",
+    "main.877de176.js.map": "/invitation/static/js/main.877de176.js.map",
     "453.acccadb7.chunk.js.map": "/invitation/static/js/453.acccadb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46fe3245.css",
-    "static/js/main.555c3949.js"
+    "static/js/main.877de176.js"
   ]
 }
