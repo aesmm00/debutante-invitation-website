@@ -326,7 +326,7 @@ const RSVPSection = () => {
                         borderRadius: '5px',
                         backgroundColor: 'rgba(178, 34, 34, 0.1)'
                     }}>
-                    Please Confirm your RSVP on or before August 23, 2025
+                    Please Confirm your RSVP on or before September 23, 2025
                 </Typography>
                 <form onSubmit={handleSubmit}>
                     {names.map((name, index) => (

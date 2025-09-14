@@ -1,9 +1,9 @@
 import React from 'react';
 import { Container, Typography, Box, Grid } from '@mui/material';
 import { styled } from '@mui/system';
-import photoLarge from '../../assets/photos/preDebut/photoLarge.jpg';
-import photoSmall1 from '../../assets/photos/preDebut/photoSmall1.jpg';
-import photoSmall2 from '../../assets/photos/preDebut/photoSmall2.jpg';
+import photoLarge from '../../assets/photos/preDebut/photoLarge.JPG';
+import photoSmall1 from '../../assets/photos/preDebut/photoSmall1.JPG';
+import photoSmall2 from '../../assets/photos/preDebut/photoSmall2.JPG';
 import photoSmall3 from '../../assets/photos/preDebut/photoSmall3.jpg';
 import homePortraitBg from '../../assets/photos/home/homePortraitBg.jpg';
 import homeLandscapeBg from '../../assets/photos/home/homeLandscapeBg.jpg';

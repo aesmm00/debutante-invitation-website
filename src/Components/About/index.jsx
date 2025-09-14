@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Container, Card, CardContent, CardMedia, useMediaQuery, useTheme } from '@mui/material';
 import styled from '@emotion/styled';
-import aboutPhoto from '../../assets/photos/about/aboutPhoto.jpg';
+import aboutPhoto from '../../assets/photos/about/aboutPhoto.JPG';
 import aboutLandscapeBg from '../../assets/photos/about/aboutLandscapeBg.jpg';
 import aboutPortraitBg from '../../assets/photos/about/aboutPortraitBg.jpg';
 
